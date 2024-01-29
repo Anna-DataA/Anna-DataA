@@ -17,7 +17,7 @@ Statistical Modeling: Regression analysis, Time Series Analysis
 💡 Key Achievements:
 
 Spearheaded data initiatives resulting in a [3]% improvement in production efficiency and a [1]% reduction in waste in the textile and apparel sectors.
-Implemented demand forecasting models that led to a [X]% reduction in stockouts and excess inventory in the food production industry.
+Implemented demand forecasting models that led to a [2]% reduction in stockouts and excess inventory in the food production industry.
 Collaborated with cross-functional teams to develop custom analytics solutions for specific challenges in each industry, resulting in tangible cost savings and operational improvements.
 
 📈 Continuous Learning:
